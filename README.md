@@ -1,16 +1,14 @@
 <h2 align="left">Dounya Simki</h2>
 
 <p align="left">
-Software Engineering Graduate · Full-Stack Development
+Software Engineering Graduate · Java / Spring Boot · Angular
 </p>
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dounya-simki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dounya-simki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dounya-simki&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dounya-simki&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top languages" />
 </div>
 
 ###
@@ -19,48 +17,33 @@ Software Engineering Graduate · Full-Stack Development
 
 ###
 
-### About
-
-Software Engineering graduate from Université Ibn Zohr, interested in backend and full-stack web development.
-
-Currently focusing on Java, Spring Boot, Angular and TypeScript, with PostgreSQL, REST APIs, Git and Docker.
-
-I enjoy learning by building complete applications and improving my understanding of software architecture, APIs and databases.
-
-###
-
-### Tech Stack
+### Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angular logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
 </div>
 
 ###
 
-### Currently learning
+### Focus
 
 ```text
-Spring Boot
-REST APIs
-Spring Data JPA
-Angular
-TypeScript
-PostgreSQL
-Docker
-Testing
-Spring Security
-CI/CD
+Backend        Java · Spring Boot · REST APIs
+Frontend       Angular · TypeScript
+Database       PostgreSQL · JPA / Hibernate
+Engineering   Git · Docker · Testing
+Security       Spring Security · JWT
